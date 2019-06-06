@@ -1,0 +1,194 @@
+
+      {
+        "VendorId": "001",
+        "Vendor": [
+          {
+            "IndusrtyId": "001",
+            "IndustryName": "Food",
+            "MainCategory": [
+              {
+                "Id": " Main 1",
+                "Name": "Main 1 ",
+                "Description": " ",
+                "SubCategory": [
+                  {
+                    "Id": " ",
+                    "Name": " Sub 1",
+                    "Description": " ",
+                    "Product": [
+                      {
+                        "Id": "Sub 1 Product 1",
+                        "Name": " Sub 1 Product 1",
+                        "CurrentQuantity": " ",
+                        "Description": " ",
+                        "Tag": " ",
+                        "Unit": " ",
+                        "Price": " ",
+                        "PictureUrl": " ",
+                        "Class": [
+                          {
+                            "Id": "id1",
+                            "Name": "Class 1 ",
+                            "Description": " "
+                          },
+                          {
+                            "Id": "id2",
+                            "Name": "Class 2 ",
+                            "Description": " "
+                          },
+                          {
+                            "Id": "id3",
+                            "Name": "Class 3 ",
+                            "Description": " "
+                          },
+                          {
+                            "Id": "id4",
+                            "Name": "Class 4 ",
+                            "Description": " "
+                          }
+                        ],
+                        "add-on":[
+
+                        ]
+                      },
+                      {
+                        "Id": "Sub 1 Product 1",
+                        "Name": " Sub 1 Product 1",
+                        "CurrentQuantity": " ",
+                        "Description": " ",
+                        "Tag": " ",
+                        "Unit": " ",
+                        "Price": " ",
+                        "PictureUrl": " ",
+                        "Class": [
+                          {
+                            "Id": " Id 1",
+                            "Name": "Class 1 ",
+                            "Description": " "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+
+                  "Id": " ",
+                  "Name": " Sub 2",
+                  "Description": " ",
+                  "Product": [
+                    {
+                      "Id": "Sub 2 Product 1",
+                      "Name": " Sub 2 Product 1",
+                      "CurrentQuantity": " ",
+                      "Description": " ",
+                      "Tag": " ",
+                      "Unit": " ",
+                      "Price": " ",
+                      "PictureUrl": " ",
+                      "Class": [
+                        {
+                          "Id": " Id 1",
+                          "Name": "Class 1 ",
+                          "Description": " "
+                        }
+                      ]
+                    }
+                  ]
+                }
+
+                ]
+              },  {
+                "Id": " Main 2",
+                "Name": "Main 2 ",
+                "Description": " ",
+                "SubCategory": [
+                  {
+                    "Id": " ",
+                    "Name": " main 2 Sub 1",
+                    "Description": " ",
+                    "Product": [
+                      {
+                        "Id": " main 2 Sub 1 Product 1",
+                        "Name": "main 2 Sub 1 Product 1 ",
+                        "CurrentQuantity": " ",
+                        "Description": " ",
+                        "Tag": " ",
+                        "Unit": " ",
+                        "Price": " ",
+                        "PictureUrl": " ",
+                        "Class": [
+                          {
+                            "Id": " Id 1",
+                            "Name": "Class 1 ",
+                            "Description": " ",
+                            "price":27
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+
+                  "Id": " ",
+                  "Name": "main 2 Sub 2",
+                  "Description": " ",
+                  "Product": [
+                    {
+                      "Id": "  main 2 Sub 2 Product 1",
+                      "Name": " main 2 Sub 2 Product 1",
+                      "CurrentQuantity": " ",
+                      "Description": " ",
+                      "Tag": " ",
+                      "Unit": " ",
+                      "Price": " ",
+                      "PictureUrl": " ",
+                      "Class": [
+                        
+                      ]
+                    }
+                  ]
+                }
+
+                ]
+              }
+            ]
+          },
+          {
+            "IndusrtyId": "002",
+            "IndustryName": "Loundry",
+            "MainCategory": [
+              {
+                "Id": " ",
+                "Name": " ",
+                "Description": " ",
+                "SubCategory": [
+                  {
+                    "Id": " ",
+                    "Name": " ",
+                    "Description": " ",
+                    "Product": [
+                      {
+                        "Id": " ",
+                        "Name": " ",
+                        "CurrentQuantity": " ",
+                        "Description": " ",
+                        "Tag": " ",
+                        "Unit": " ",
+                        "Price": " ",
+                        "PictureUrl": " ",
+                        "Class": [
+                          {
+                            "Id": " ",
+                            "Name": " ",
+                            "Description": " "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
