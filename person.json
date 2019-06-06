@@ -1,0 +1,16 @@
+{
+    "id":1,
+    "name":"siva",
+    "age":19,
+    "place":["Poonakary","Kilinochchi"],
+    "images":[
+        {
+            "id":1,
+            "name":"img 1"
+        },
+        {
+            "id":2,
+            "name":"img 2"
+        }
+    ]
+}
